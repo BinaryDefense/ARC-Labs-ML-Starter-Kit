@@ -1,3 +1,3 @@
 # ARC-Labs-ML-Starter-Kit
 
-Placeholder readme for first push
+ARC Labs ML Starter Kit
